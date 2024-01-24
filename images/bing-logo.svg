@@ -1,0 +1,10 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+ <title>Bing</title>
+
+ <g>
+  <title>Layer 1</title>
+  <rect stroke-width="0" filter="url(#svg_6_blur)" rx="35" opacity="0.9" stroke="#000" id="svg_6" height="200" width="220" y="50" x="40" fill="#bf0000"/>
+  <text transform="matrix(1.11126 0 0 1 -24.8337 0)" font-weight="normal" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Sansita Swashed'" font-size="150" id="svg_4" y="231.08108" x="119.66771" stroke-width="0" fill="#000000">B</text>
+  <text transform="matrix(1.0178 0 0 1 -6.79678 0)" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Sansita Swashed'" font-size="150" id="svg_7" y="172.7027" x="55.49358" stroke-width="0" fill="#000000">H</text>
+ </g>
+</svg>
